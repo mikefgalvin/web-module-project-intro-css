@@ -122,7 +122,7 @@ a{
 
 h1{
     font-family: 'Chelsea Market', cursive;
-    font-size: 8rem;
+    font-size: 6rem;
     text-align:center;
     display:inline-block;
     padding: 1%;
@@ -151,7 +151,7 @@ h2{
 
 
 #fire{
-    width: 12%;
+    width: 14%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -161,7 +161,7 @@ h2{
 
 
 #bus{
-    width: 12%;
+    width: 14%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -171,7 +171,7 @@ h2{
 
 .icon-text{
     width: 100%;
-    padding:1% 35%;
+    padding:1% 30%;
     text-align:center;
     padding-bottom: 7%;
 }
@@ -186,12 +186,10 @@ h2{
 
 .footer-image img{
     width:100%;
-    height:20vh;
+    height:25vh;
     object-fit:cover;
-    object-position:top;
-    
+    object-position: 50% 18%;
 }
-
 
 
 footer {
@@ -201,7 +199,7 @@ footer {
 }
 
 .footer-nav{
-    width: 100%
+    width: 100%;
     display:inline-block;
     text-align: center;
 }
